@@ -38,7 +38,6 @@ After 6+ years of experience in Operations and Business Management, I transition
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
